@@ -1,6 +1,6 @@
 # Solar Farm Power BI
 A Power BI report used to analyze the daily yield and other metrics at a solar farm I designed/constructed.\
-Public Power BI Report Link: [here](https://www.novypro.com/project/solar-farm-report))
+Public Power BI Report Link: [here](https://www.novypro.com/project/solar-farm-report)
 
 ## Motivation
 This report was created as a response to the company board wanting to be able to view the output and revenue of the solar farm without having to use the farm control and monitoring tools.
