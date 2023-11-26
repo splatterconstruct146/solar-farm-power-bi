@@ -1,5 +1,6 @@
 # Solar Farm Power BI
-A Power BI report used to analyze the daily yield and other metrics at a solar farm I designed/constructed.
+A Power BI report used to analyze the daily yield and other metrics at a solar farm I designed/constructed.\
+Public Power BI Report Link: [here](https://app.powerbi.com/links/ETMaHz8pCU?ctid=5c84f45c-41be-441f-a0b3-dcaea3058422&pbi_source=linkShare)
 
 ## Motivation
 This report was created as a response to the company board wanting to be able to view the output and revenue of the solar farm without having to use the farm control and monitoring tools.
